@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 120px;
+}
+
+div{ 
+    
+    display: flex;
+    background-color: cadetblue;
+    justify-content: center;
+    width: 400px;
+    height: 500px;
+    border-radius: 20px; 
+    border: 12px; 
+    align-items: center; 
+}
+
+input,p{
+
+margin-top: 10px;
+padding: 10px; 
+border-left: 96px;
+border-radius: 10px;
+cursor: pointer;
+
+
+}
+
+button {
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px;   
+    background-color: rgb(194, 192, 206);
+    cursor: pointer;
+    background-color: blueviolet;
+    transition: none;
+    
+    
+}
+form{
+    right: 78px;
+}
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
